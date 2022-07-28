@@ -170,4 +170,5 @@ dmypy.json
 cython_debug/
 
 .env
+
 notifications/config.json

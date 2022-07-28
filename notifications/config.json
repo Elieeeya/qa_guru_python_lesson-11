@@ -1,0 +1,16 @@
+{
+  "base": {
+    "project": "qa_guru_python_lesson-11",
+    "environment": "dev",
+    "comment": "Build Results",
+    "reportLink": "https://jenkins.autotests.cloud/job/qa_guru_python_flow-1_lesson-11_Elieeeya/5/",
+    "language": "en",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5207087185:AAGckEHzZXrYgDXaEH-oUwzpQaEe-Ge3E08",
+    "chat": "-1001722006807",
+    "replyTo": ""
+  }
+}
